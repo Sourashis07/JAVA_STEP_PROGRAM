@@ -1,0 +1,1 @@
+Hello this is the readme.txt that helps to understnad how github works. Thanks :)
